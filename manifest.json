@@ -1,0 +1,13 @@
+{
+   "manifest_version": 2,
+   "name": "SBI - Continue to Login",
+   "version": "0.9",
+   "content_scripts": [ {
+      "matches": [ "https://retail.onlinesbi.com/retail/login.htm" ],
+      "js": [ "continue.js" ]
+   } ],
+   "description": "Automatically continue to login page on State Bank of India (SBI) internet banking page",
+   "icons": {
+      "128": "continue.png"
+   }
+}
