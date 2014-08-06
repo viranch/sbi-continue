@@ -8,6 +8,6 @@ How to use
 
 Download the zipped extension from [here](https://github.com/viranch/sbi-continue/archive/master.zip) and unzip it somewhere.
 
-Go to [extensions page](chrome://extensions/) in Chrome, enable "Developer mode", click on "Load unpacked extension..." and browse to the unzipped folder.
+Go to <a href="chrome://extensions/">extensions page</a> in Chrome, enable "Developer mode", click on "Load unpacked extension..." and browse to the unzipped folder.
 
 Browse to the [SBI Netbanking page](https://www.onlinesbi.com/retail/login.htm) and the "Continue to login" page should not show up.
